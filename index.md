@@ -24,22 +24,22 @@
 - trait-data handling, best practice guidelines: https://ecologicaltraitdata.github.io/ETS/bestpractice.html
 
 # Publishing data
-## Data uploads to existing databases
-## Developing a database
+- Data uploads to existing databases
+- Developing a database
 
 # Trait data sources
-## Domain specific databases
-## OTN Registry
-## Publication supplements
-## Data papers
-## Text mining
+- Domain specific databases
+- OTN Registry
+- Publication supplements
+- Data papers
+- Text mining
 
 # Post-Processing
-## Harmonization (e.g. from multiple data sources)
-## Error handling (e.g. wrong metadata)
-## Duplicate handling
-## Outliers
-## Standardization
-## Filtering
+- Harmonization (e.g. from multiple data sources)
+- Error handling (e.g. wrong metadata)
+- Duplicate handling
+- Outliers
+- Standardization
+- Filtering
 
 # Analysing trait data
