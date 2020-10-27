@@ -10,22 +10,33 @@
 ## Meta data
 - covariates and meta-data
 - minimum information
+  - geolocation
+  - time and date
   - life stage (e.g. juvenile)
+  - health status
   - scale (e.g. leaf)
   - context (e.g. natural habitat)
   - measurement details (e.g. following standards, devices used...)
 - further meta-data help
 
-## Ontologies
+## Specific conditions
+- Multivariate trait data
 
+## Ontologies
+- Trait ontologies
+- Taxonomy
+- Relations
 
 # Data handling 
 ## Data structure and formats
-- trait-data handling, best practice guidelines: https://ecologicaltraitdata.github.io/ETS/bestpractice.html
+- trait-data handling best practice guidelines: https://ecologicaltraitdata.github.io/ETS/bestpractice.html
+- data formats
+- interoperability
 
 # Publishing data
 - Data uploads to existing databases
 - Developing a database
+- Data review
 
 # Trait data sources
 - Domain specific databases
@@ -36,6 +47,9 @@
 
 # Post-Processing
 - Harmonization (e.g. from multiple data sources)
+  - semantic harmonization 
+  - taxonomy
+  - covariate hamonization
 - Error handling (e.g. wrong metadata)
 - Duplicate handling
 - Outliers
@@ -43,3 +57,4 @@
 - Filtering
 
 # Analysing trait data
+- Derived traits
