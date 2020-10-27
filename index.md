@@ -28,10 +28,11 @@
 - Relations
 
 # Data handling 
-## Data structure and formats
 - trait-data handling best practice guidelines: https://ecologicaltraitdata.github.io/ETS/bestpractice.html
 - data formats
+  - ETS
 - interoperability
+  - Vocabularies
 
 # Publishing data
 - Data uploads to existing databases
