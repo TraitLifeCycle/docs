@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Introduction/Motivation
+## Open Access and FAIR
 
-You can use the [editor on GitHub](https://github.com/TraitLifeCycle/docs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Data generation
+## Trait measuring
+- collection standards for subdisciplines
+  - repetitive measures
+  - individual marking/capturing...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Meta data
+- covariates and meta-data
+- minimum information
+  - life stage (e.g. juvenile)
+  - scale (e.g. leaf)
+  - context (e.g. natural habitat)
+  - measurement details (e.g. following standards, devices used...)
+- further meta-data help
 
-### Markdown
+## Ontologies
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Data handling 
+## Data structure and formats
+- trait-data handling, best practice guidelines: https://ecologicaltraitdata.github.io/ETS/bestpractice.html
 
-# Header 1
-## Header 2
-### Header 3
+# Publishing data
+## Data uploads to existing databases
+## Developing a database
 
-- Bulleted
-- List
+# Trait data sources
+## Domain specific databases
+## OTN Registry
+## Publication supplements
+## Data papers
+## Text mining
 
-1. Numbered
-2. List
+# Post-Processing
+## Harmonization (e.g. from multiple data sources)
+## Error handling (e.g. wrong metadata)
+## Duplicate handling
+## Outliers
+## Standardization
+## Filtering
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TraitLifeCycle/docs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Analysing trait data
